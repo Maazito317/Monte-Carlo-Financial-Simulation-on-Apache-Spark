@@ -1,0 +1,4 @@
+Symbol,Weight or dollar amount (must include $)
+GE,$250
+AAPL,$250
+OIL, $250
